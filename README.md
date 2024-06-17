@@ -18,5 +18,8 @@ git clone https://github.com/seu-usuario/CSharpCollectionsStudies.git
 cd CSharpCollectionsStudies
 dotnet build
 dotnet run --project Lists
+
 # CSharpCollectionsStudies
+
 ```
+Este repositório contém exemplos e estudos sobre diversas coleções e interfaces em C#.
