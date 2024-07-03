@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Exemplo de IList<T>.");
+﻿using Class_Studies.Lists;
+
+Console.WriteLine("Exemplo de IList<T>.");
 
 IListStudies colecaoEstudos2 = new();
 

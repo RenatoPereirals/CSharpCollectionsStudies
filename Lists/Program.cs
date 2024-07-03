@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Exemplo de List<T>.");
+﻿using Class_Studies.Lists;
+
+Console.WriteLine("Exemplo de List<T>.");
 ListStudies program = new();
 
 // Adicionando elementos

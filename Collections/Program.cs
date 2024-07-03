@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Exemplo de ICollection<T>.");
+﻿using Class_Studies.Lists;
+
+Console.WriteLine("Exemplo de ICollection<T>.");
 
 ICollectionStudies colecaoEstudos = new();
 

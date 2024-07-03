@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Exemplo de IEnumerable<T>.");
+﻿using Class_Studies.Lists;
+
+Console.WriteLine("Exemplo de IEnumerable<T>.");
 
 IEnumerableStudies colecaoEstudos1 = new();
 
